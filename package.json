@@ -1,0 +1,27 @@
+{
+  "name": "backend-octopy-test",
+  "version": "1.0.0",
+  "description": "Backend to apply for octopy job",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israel2403/backend-ocotpy-test.git"
+  },
+  "keywords": [
+    "CRUD",
+    "TypeORM",
+    "Node",
+    "js",
+    "Ts",
+    "Express"
+  ],
+  "author": "Israel Huerta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israel2403/backend-ocotpy-test/issues"
+  },
+  "homepage": "https://github.com/israel2403/backend-ocotpy-test#readme"
+}
